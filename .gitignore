@@ -213,3 +213,4 @@ QWEN.md
 .cursor/rules
 /plans/
 .vercel
+.playwright-mcp/

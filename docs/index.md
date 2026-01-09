@@ -14,19 +14,9 @@ Join a community of developers embracing AI-assisted coding. Learn prompting str
 share knowledge, and build amazing things together.
 </p>
 
-<div class="signup-card">
-<h3>Join the Community</h3>
-<form action="#" method="post" class="signup-form">
-<div class="form-group">
-<label for="name">Name</label>
-<input type="text" id="name" name="name" placeholder="Your name" required>
-</div>
-<div class="form-group">
-<label for="email">Email</label>
-<input type="email" id="email" name="email" placeholder="you@example.com" required>
-</div>
-<button type="submit" class="cta-button">Get Started</button>
-</form>
+<div class="hero-cta">
+<a href="getting-started/what-is-vibecoding/" class="cta-button">Get Started</a>
+<a href="community/contributing/" class="cta-button cta-secondary">Contribute</a>
 </div>
 
 </div>
@@ -84,9 +74,9 @@ Traditional coding is often solitary and frustrating. Vibecoding transforms deve
 This is an open source project built by and for the community. Whether you're a seasoned developer or just starting out, your contributions are welcome!
 
 - [Contribute to the docs](community/contributing.md)
-- [Report issues](https://github.com/letsvibe/vibecoding/issues)
-- [Join the discussion](https://github.com/letsvibe/vibecoding/discussions)
+- [Report issues](https://github.com/mbernier/vibecoding/issues)
+- [Join the discussion](https://github.com/mbernier/vibecoding/discussions)
 
 ---
 
-*Built with love by the letsvibe.org community*
+*Built with love by the [letsvibe.org](https://letsvibe.org) community*
