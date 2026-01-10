@@ -68,8 +68,37 @@ rm -rf /tmp/agent-config
 | **Cursor Rules** | 43+ development rules in `.cursor/rules/` |
 | **MCP Configs** | Pre-configured MCP servers for each tool |
 | **Agent Instructions** | `CLAUDE.md`, `AGENTS.md`, `GEMINI.md`, `QWEN.md` |
+| **Agents** | Reusable agent definitions (via submodule) |
+| **Skills** | Custom skills for Claude Code (via submodule) |
 | **Sync Scripts** | Automation for keeping configs in sync |
 | **Statusline** | Custom Claude Code statusline scripts |
+
+### Agents & Skills (Submodules)
+
+The repository includes two Git submodules that provide reusable agents and skills:
+
+#### Agents ([bernierllc/agency-agents](https://github.com/bernierllc/agency-agents))
+
+Custom agent definitions that extend Claude Code's capabilities. Agents are reusable personalities/behaviors you can invoke for specific tasks.
+
+- Located in `.claude/agents/`
+- Synced to Cursor commands automatically
+- See the [agency-agents README](https://github.com/bernierllc/agency-agents) for available agents and usage
+
+#### Skills ([bernierllc/skills](https://github.com/bernierllc/skills))
+
+Custom skills that add new capabilities to Claude Code. Skills are like plugins that teach Claude new workflows.
+
+- Located in `.claude/skills/`
+- Can be invoked during Claude Code sessions
+- See the [skills README](https://github.com/bernierllc/skills) for available skills and how to create your own
+
+!!! note "Submodule Updates"
+    When you `git pull` the main repo, also update submodules:
+    ```bash
+    git pull
+    git submodule update --init --recursive
+    ```
 
 ### Directory Structure
 
