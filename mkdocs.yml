@@ -95,6 +95,33 @@ nav:
   - Getting Started:
       - What is Vibecoding?: getting-started/what-is-vibecoding.md
       - Quick Start: getting-started/quick-start.md
+  - Tools:
+      - Overview: tools/index.md
+      - Understanding Config Directories: tools/config-directories.md
+      - IDEs & Editors:
+          - Cursor: tools/ides/cursor.md
+          - Windsurf: tools/ides/windsurf.md
+          - VS Code + Copilot: tools/ides/vscode-copilot.md
+      - CLI & Terminal:
+          - Claude Code: tools/cli/claude-code.md
+          - Codex CLI: tools/cli/codex.md
+          - Aider: tools/cli/aider.md
+      - AI Models & APIs:
+          - Claude: tools/models/claude.md
+          - Gemini: tools/models/gemini.md
+          - Qwen: tools/models/qwen.md
+          - OpenAI/ChatGPT: tools/models/openai.md
+  - Local Development:
+      - Overview: local-dev/index.md
+      - IDE vs CLI: local-dev/ide-vs-cli.md
+      - Environment Setup: local-dev/environment-setup.md
+      - Planning Your Work:
+          - Local Planning: local-dev/planning/local-planning.md
+          - BrainGrid: local-dev/planning/braingrid.md
+  - Resources:
+      - Community Tools: resources/index.md
+      - agents-environment-config: resources/agents-environment-config.md
+      - Cursor Rules Guide: resources/cursor-rules.md
   - Guides:
       - Prompting Strategies: guides/prompting-strategies.md
       - AI Coding Assistants: guides/ai-coding-assistants.md

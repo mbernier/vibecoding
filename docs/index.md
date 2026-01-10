@@ -34,13 +34,37 @@ share knowledge, and build amazing things together.
 
     [:octicons-arrow-right-24: Get started](getting-started/what-is-vibecoding.md)
 
+-   :material-tools:{ .lg .middle } **Tools**
+
+    ---
+
+    Explore AI coding tools - from IDEs like Cursor and Windsurf to CLI tools like Claude Code and Aider.
+
+    [:octicons-arrow-right-24: Browse tools](tools/index.md)
+
+-   :material-laptop:{ .lg .middle } **Local Development**
+
+    ---
+
+    Set up your local environment, compare IDE vs CLI workflows, and learn planning strategies.
+
+    [:octicons-arrow-right-24: Local dev guide](local-dev/index.md)
+
 -   :material-book-open-variant:{ .lg .middle } **Guides**
 
     ---
 
-    In-depth guides on prompting strategies, AI coding assistants, and best practices for effective AI-assisted development.
+    In-depth guides on prompting strategies, AI coding assistants, and best practices.
 
     [:octicons-arrow-right-24: Browse guides](guides/prompting-strategies.md)
+
+-   :material-package-variant:{ .lg .middle } **Resources**
+
+    ---
+
+    Community tools, shared configurations, and open source resources for AI-assisted development.
+
+    [:octicons-arrow-right-24: Explore resources](resources/index.md)
 
 -   :material-account-group:{ .lg .middle } **Community**
 
@@ -49,14 +73,6 @@ share knowledge, and build amazing things together.
     Learn how to contribute, connect with other vibecoders, and help grow this knowledge base.
 
     [:octicons-arrow-right-24: Join us](community/contributing.md)
-
--   :material-frequently-asked-questions:{ .lg .middle } **FAQ**
-
-    ---
-
-    Quick answers to common questions about vibecoding and this community.
-
-    [:octicons-arrow-right-24: Read FAQ](faq.md)
 
 </div>
 
