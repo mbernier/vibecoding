@@ -38,3 +38,7 @@ six==1.17.0
 smmap==5.0.2
 urllib3==2.6.3
 watchdog==6.0.0
+# SEO and LLM plugins
+mkdocs-llmstxt
+mkdocs-meta-descriptions-plugin
+pillow

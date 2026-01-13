@@ -1,3 +1,7 @@
+---
+description: Learn the vibecoding philosophy - AI-assisted coding through natural conversation. Build software faster by collaborating with AI tools.
+---
+
 # What is Vibecoding?
 
 Vibecoding is a development philosophy that embraces AI-assisted coding as a natural, conversational way to build software. It's about finding your flow and collaborating with AI tools to create, learn, and iterate faster than ever before.

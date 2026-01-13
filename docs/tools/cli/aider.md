@@ -1,3 +1,7 @@
+---
+description: Aider is an open-source AI pair programming CLI tool. Supports Claude, GPT-4, and local models with seamless git integration.
+---
+
 # Aider
 
 > **Official Docs**: [aider.chat](https://aider.chat/)

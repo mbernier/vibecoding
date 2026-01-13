@@ -1,3 +1,7 @@
+---
+description: Windsurf is Codeium's AI-native IDE built from the ground up for AI-assisted development. Setup, configuration, and tips.
+---
+
 # Windsurf
 
 > **Official Docs**: [codeium.com/windsurf](https://codeium.com/windsurf)

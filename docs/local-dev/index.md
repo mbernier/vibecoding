@@ -1,3 +1,7 @@
+---
+description: Set up your local AI-assisted development environment. Compare IDEs vs CLI tools and optimize your workflow for maximum productivity.
+---
+
 # Local Development with AI
 
 Working with AI coding assistants locally gives you the most control over your development environment. This section covers how to set up and optimize your local AI-assisted workflow.

@@ -53,6 +53,49 @@ plugins:
       height: auto
       zoomable: true
       draggable: true
+  # SEO Plugins
+  - meta
+  - social:
+      cards_layout: default/variant
+      enabled: !ENV [ENABLE_SOCIAL_CARDS, false]
+  - meta-descriptions:
+      export_csv: false
+      quiet: false
+      enable_checks: true
+      min_length: 50
+      max_length: 160
+  # LLM-friendly documentation
+  - llmstxt:
+      markdown_description: |
+        Vibecoding is an open source knowledge base for the vibecoding community.
+        Learn AI-assisted coding, prompting strategies, and collaborative development practices.
+      full_output: llms-full.txt
+      sections:
+        Getting Started:
+          - getting-started/what-is-vibecoding.md: Introduction to vibecoding and AI-assisted development
+          - getting-started/quick-start.md: Quick start guide for getting up and running
+        Tools:
+          - tools/index.md: Overview of AI coding tools
+          - tools/config-directories.md: Understanding configuration directories
+          - tools/ides/*.md
+          - tools/cli/*.md
+          - tools/models/*.md
+        Local Development:
+          - local-dev/index.md: Local development overview
+          - local-dev/ide-vs-cli.md: IDE vs CLI comparison
+          - local-dev/environment-setup.md: Environment setup guide
+          - local-dev/planning/*.md
+        Guides:
+          - guides/prompting-strategies.md: Effective prompting strategies for AI coding
+          - guides/ai-coding-assistants.md: Working with AI coding assistants
+          - guides/best-practices.md: Best practices for vibecoding
+        Resources:
+          - resources/*.md
+        Community:
+          - community/contributing.md: How to contribute to the project
+          - community/code-of-conduct.md: Community code of conduct
+        FAQ:
+          - faq.md: Frequently asked questions
 
 markdown_extensions:
   - pymdownx.highlight:

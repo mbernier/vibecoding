@@ -1,3 +1,7 @@
+---
+description: Community guidelines for respectful participation in the Vibecoding community. Our pledge, standards, and enforcement policies.
+---
+
 # Code of Conduct
 
 ## Our Pledge

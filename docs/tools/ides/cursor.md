@@ -1,3 +1,7 @@
+---
+description: Cursor is a VS Code fork with deep AI integration. Configuration, keyboard shortcuts, and tips for this popular AI coding IDE.
+---
+
 # Cursor
 
 > **Official Docs**: [cursor.com/docs](https://docs.cursor.com/)

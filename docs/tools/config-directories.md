@@ -1,3 +1,7 @@
+---
+description: Learn where AI coding tools store config files. Customize settings for Claude Code, Cursor, Gemini, Qwen, and more.
+---
+
 # Understanding AI Tool Config Directories
 
 Most AI coding tools store configuration files in your home directory. Understanding this pattern is essential for customizing your setup and sharing configurations across machines.
