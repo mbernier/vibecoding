@@ -42,3 +42,11 @@ watchdog==6.0.0
 mkdocs-llmstxt
 mkdocs-meta-descriptions-plugin
 pillow
+# Community and functionality plugins
+mkdocs-rss-plugin
+mkdocs-git-committers-plugin-2
+mkdocs-print-site-plugin
+mkdocs-macros-plugin
+mkdocs-table-reader-plugin
+pandas
+openpyxl

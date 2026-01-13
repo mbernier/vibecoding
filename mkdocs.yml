@@ -8,6 +8,7 @@ repo_url: https://github.com/mbernier/vibecoding
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     scheme: slate
     primary: custom
@@ -96,6 +97,31 @@ plugins:
           - community/code-of-conduct.md: Community code of conduct
         FAQ:
           - faq.md: Frequently asked questions
+  # Community and engagement plugins
+  - rss:
+      match_path: ".*"
+      date_from_meta:
+        as_creation: date
+        as_update: git
+      categories:
+        - tags
+      feeds_filenames:
+        rss_created: feed.xml
+        rss_updated: feed-updated.xml
+  - git-committers:
+      repository: mbernier/vibecoding
+      branch: main
+  - macros
+  - table-reader
+  # Optimization
+  - optimize:
+      enabled: !ENV [ENABLE_OPTIMIZE, false]
+  # Print/PDF support - must be last
+  - print-site:
+      add_to_navigation: true
+      print_page_title: "Print / PDF"
+      add_print_site_banner: false
+      enabled: !ENV [ENABLE_PRINT_SITE, true]
 
 markdown_extensions:
   - pymdownx.highlight:
