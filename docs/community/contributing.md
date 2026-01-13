@@ -5,7 +5,7 @@ comments: true
 
 # Contributing to Vibecoding
 
-We welcome contributions from everyone in the letsvibe.org community! This guide will help you get started.
+We welcome contributions from everyone in the vibecoding community! This guide will help you get started.
 
 ## Ways to Contribute
 

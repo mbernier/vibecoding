@@ -4,7 +4,7 @@ Thank you for your interest in contributing to Vibecoding!
 
 **Full contributing guidelines are on the documentation site:**
 
-## [letsvibe.org/community/contributing](https://letsvibe.org/community/contributing/)
+## [Community Contributing Guide](./docs/community/contributing.md)
 
 The site includes:
 
@@ -36,7 +36,7 @@ Then open http://localhost:8000 to preview your changes.
 
 ## Site Features for Contributors
 
-See [Site Features](https://letsvibe.org/community/site-features/) for documentation on:
+See [Site Features](./docs/community/site-features.md) for documentation on:
 
 - Enabling comments on pages
 - Writing SEO-friendly descriptions

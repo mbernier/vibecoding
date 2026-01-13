@@ -95,4 +95,4 @@ This is an open source project built by and for the community. Whether you're a 
 
 ---
 
-*Built with love by the [letsvibe.org](https://letsvibe.org) community*
+*Built with love by the vibecoding community*

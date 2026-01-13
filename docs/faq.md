@@ -128,16 +128,15 @@ Then open http://localhost:8000 in your browser.
 
 ### How can I connect with other vibecoders?
 
-- Join [GitHub Discussions](https://github.com/letsvibe/vibecoding/discussions)
-- Follow updates at [letsvibe.org](https://letsvibe.org)
+- Join [GitHub Discussions](https://github.com/mbernier/vibecoding/discussions)
 - Contribute to this documentation
 
 ### I have a question not covered here
 
 Feel free to:
 
-1. [Open a discussion](https://github.com/letsvibe/vibecoding/discussions) for general questions
-2. [Open an issue](https://github.com/letsvibe/vibecoding/issues) for documentation improvements
+1. [Open a discussion](https://github.com/mbernier/vibecoding/discussions) for general questions
+2. [Open an issue](https://github.com/mbernier/vibecoding/issues) for documentation improvements
 3. Contribute a new FAQ entry via pull request
 
 ---

@@ -1,18 +1,18 @@
 # Vibecoding
 
-Open source knowledge base for the [letsvibe.org](https://letsvibe.org) community. Learn AI-assisted coding, prompting strategies, and collaborative development practices.
+Open source knowledge base for the vibecoding community. Learn AI-assisted coding, prompting strategies, and collaborative development practices.
 
 ## Quick Start
 
 ### View the Documentation
 
-Visit the live documentation at: **[https://letsvibe.org](https://letsvibe.org)** (or wherever deployed)
+Visit the live documentation at: **[vibecoding-navy.vercel.app](https://vibecoding-navy.vercel.app)**
 
 ### Run Locally
 
 ```bash
 # Clone the repository
-git clone https://github.com/letsvibe/vibecoding.git
+git clone https://github.com/mbernier/vibecoding.git
 cd vibecoding
 
 # Create and activate a virtual environment
@@ -67,5 +67,4 @@ See [LICENSE](LICENSE) for details.
 
 ## Community
 
-- [GitHub Discussions](https://github.com/letsvibe/vibecoding/discussions)
-- [letsvibe.org](https://letsvibe.org)
+- [GitHub Discussions](https://github.com/mbernier/vibecoding/discussions)
