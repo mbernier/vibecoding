@@ -1,3 +1,8 @@
+---
+description: How to contribute to the Vibecoding documentation. Guidelines for writing, formatting, and submitting pull requests.
+comments: true
+---
+
 # Contributing to Vibecoding
 
 We welcome contributions from everyone in the letsvibe.org community! This guide will help you get started.

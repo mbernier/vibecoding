@@ -1,3 +1,8 @@
+---
+description: Frequently asked questions about vibecoding, AI coding assistants, and contributing to this community documentation.
+comments: true
+---
+
 # Frequently Asked Questions
 
 Common questions about vibecoding and this community resource.

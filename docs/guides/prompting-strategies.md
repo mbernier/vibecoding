@@ -1,3 +1,8 @@
+---
+description: Effective prompting strategies for AI coding assistants. Learn to write better prompts and get better results.
+comments: true
+---
+
 # Prompting Strategies
 
 Effective prompting is the foundation of vibecoding. This guide covers strategies to get better results from AI coding assistants.

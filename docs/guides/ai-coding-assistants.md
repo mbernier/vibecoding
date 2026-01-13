@@ -1,3 +1,8 @@
+---
+description: Compare AI coding assistants including Claude, GitHub Copilot, Cursor, and ChatGPT. Find the best tool for your workflow.
+comments: true
+---
+
 # AI Coding Assistants
 
 A comprehensive guide to the AI coding assistants available for vibecoding. Each tool has its strengths and ideal use cases.

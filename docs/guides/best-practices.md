@@ -1,3 +1,8 @@
+---
+description: Best practices for AI-assisted coding. Guidelines for code quality, security, and responsible vibecoding.
+comments: true
+---
+
 # Best Practices
 
 Guidelines for effective and responsible vibecoding. These practices will help you get better results while maintaining code quality and security.

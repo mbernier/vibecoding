@@ -197,5 +197,6 @@ nav:
       - Best Practices: guides/best-practices.md
   - Community:
       - Contributing: community/contributing.md
+      - Site Features: community/site-features.md
       - Code of Conduct: community/code-of-conduct.md
   - FAQ: faq.md
